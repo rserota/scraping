@@ -1,6 +1,5 @@
 var stats = require('statsjs')
 var request = require('request');
-var mongoose = require('mongoose')
 
 var data = []
 var oldData = []
